@@ -1,0 +1,269 @@
+.top{
+  background: RGB(100,227,252);
+  margin-top: -15px;
+  /*padding-bottom: -10px;   */
+  width: 80%;
+  text-align: left;
+}
+.divTop{
+  margin: 0px auto;
+  margin-top: -15px;
+  background: RGB(100,227,252);
+}
+b.logo1{
+  font-family: arial;
+  font-size: 12pt;
+  color: #0099CC;
+}
+b.logo2{
+  font-family: arial;
+  font-size: 14pt;
+  color: #FFFFFF;
+  font-weight: normal;
+}
+a.topLinks{
+  color: black;
+  font-family:arial;
+  font-size: 8pt;
+  text-decoration: underline;
+}
+a.topLinks:hover{
+  color: white;
+  text-decoration: underline;
+}
+input.ajaxWord{
+  border: solid 1px white;
+  font-size: 9pt;
+  color: skyblue;
+}
+input.ajaxSubmit{
+  border: solid 1px white;
+}
+a.language{
+  color: white;
+  font-size:11pt;
+  font-family:arial;
+  font-weight: bold;
+  text-align:center;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-right: solid 1px #dddddd;
+  text-decoration: none;
+  background: #444444;
+}
+a.language:hover{
+  color: #0066CC;
+  font-size:11pt;
+  font-family:arial;
+  font-weight: bold;
+  text-align:center;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  background: #99FF33;
+  color: black;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+div.directories{
+  padding-top: 12px;
+  padding-bottom: 13px;
+}
+div.box1{
+  border: solid 1px #cccccc;
+  background: #99FF33;
+}
+div.box1Sub{
+  border: solid 1px #ffffff;
+  background: #ffffff;
+}
+b.divHeaders{
+  font-family: arial;
+  font-size: 10pt;
+  color: white;
+  text-align: center;
+}
+div.blog{
+  border: solid 1px #cccccc;
+  background: #eeeeee;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+b.blog{
+  font-weight: bold;
+  font-family: arial;
+  font-size: 11pt;
+  color: #0099FF;
+}
+div.latest{
+  border: solid 1px #cccccc;
+  padding: 4px;
+  font-family: arial;
+  font-size: 10pt;
+}
+input#clicky,#clicky2,#clicky3,#clicky4,#clicky5{
+  border: solid 0px black;
+  background: #99ff33;
+  cursor: pointer;
+}
+div.divHeaders{
+  position:relative;
+  width:200px;
+  height:170px;
+  top:0px;
+  left:0px;
+}
+div.divHeadersContent1{
+  position:absolute;
+  width:200px;
+  height:20px;
+  top:0px;
+  left:0px;
+  background:#99ff33;
+  text-align:center;
+  color:#FFFFFF;border-top: solid 1px #cccccc; border-left: solid 1px #cccccc; border-right: solid 1px #cccccc;
+}
+div.news{
+  border: solid 1px #bbbbbb;
+}
+a.newsTitle{
+  color: #3399CC;
+  font-family: arial;
+  font-size: 12pt;
+  font-weight: bold;
+  text-decoration: none;
+}
+a.newsTitle:hover{
+  color: #3399CC;
+  font-family: arial;
+  font-size: 12pt;
+  font-weight: bold;
+  text-decoration: underline;
+}
+b.author{
+  color: black;
+  font-size: 8pt;
+  font-family: Arial;
+  font-weight: normal;
+}
+b.author2{
+  color: #6699FF;
+  font-size: 8pt;
+  font-family: Arial;
+  font-weight: normal;
+}
+b.date{
+  font-family: Arial;
+  font-size: 8pt;
+  font-weight: normal;
+  color: #aaaaaa;
+}
+a.comments{
+  color: #aaaaaa;
+  font-family: arial;
+  font-weight: normal;
+  font-size: 8pt;
+  border: solid 0px white;
+  text-decoration: none;
+}
+a.comments:hover{
+  color: #aaaaaa;
+  font-family: arial;
+  font-weight: normal;
+  font-size: 8pt;
+  border: solid 0px white;
+  text-decoration: underline;
+}
+.nText{
+  color: #888888;
+  font-family: arial;
+  font-size: 10pt;
+  text-align: justify;
+  font-weight: normal;
+}
+a.zin{
+  color:white;
+  background: #444444;
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: arial;
+  border-bottom: solid 1px white;
+  text-decoration: none;
+}
+a.zin:hover{
+  color: black;
+  background: orange;
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  font-size: 10pt;
+  font-family: arial;
+  border-bottom: solid 1px white;
+}
+input.user2{
+  width:170px;
+  height: 20px;
+  border: solid 2px #99ff33;
+  background: white;
+  color: black;
+  font-family: arial;
+  font-size: 12pt;
+}
+div.loginForm{
+  /*background-image: url(logo.jpg);*/
+  width: 290px;
+  height: 190px;
+  text-align:center;
+  border: solid 2px #00ff33;
+}
+div.RegForm{
+  /*background-image: url(logo.jpg);*/
+  width: 390px;
+  height: 590px;
+  text-align:center;
+  border: solid 2px #00ff33;
+}
+b.user1{
+  color: black;
+  font-family: arial;
+  font-size:11pt;
+}
+div.loginHeader{
+  background: #eeeeee;
+  border: solid 1px #cccccc;
+  height: 30px;
+}
+b.loginHeader{
+  color: #444444;
+  font-family: arial;
+  font-size: 10pt;
+  /*width: 20px;  */
+}
+.loginbtn{
+  color: black;
+  font-family: arial;
+  font-size: 9pt;
+  border: solid 1px #00ff33;
+  background: #FFFFFF;
+}
+a.recovor{
+  color: #444444;
+  font-size:8pt;
+  font-family:arial;
+}
+a.logout{
+  font-size:9pt;
+  font-family:arial;
+  color:#444444;
+  text-decoration: none;
+}
+a.logout:hover{
+  font-size:9pt;
+  font-family:arial;
+  color:#444444;
+  text-decoration: underline;
+}
+
